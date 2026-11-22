@@ -3,19 +3,19 @@
   "platform-tools": {
     "darwin": {
       "url": "https://dl.google.com/android/repository/platform-tools-latest-darwin.zip",
-      "sha256": "094a1395683c509fd4d48667da0d8b5ef4d42b2abfcd29f2e8149e2f989357c7",
+      "sha256": "df21339b9371fef9b19264404338dc686f59a88a1dce634b963da344909001d6",
       "size": null,
       "updated": null
     },
     "linux": {
       "url": "https://dl.google.com/android/repository/platform-tools-latest-linux.zip",
-      "sha256": "198ae156ab285fa555987219af237b31102fefe8b9d2bc274708a8d4f2865a07",
+      "sha256": "214548146cadb2ca3508143d8a1d4be4c59de5bb837253e3ede89ed74cf450d1",
       "size": null,
       "updated": null
     },
     "win32": {
       "url": "https://dl.google.com/android/repository/platform-tools-latest-windows.zip",
-      "sha256": "4fe305812db074cea32903a489d061eb4454cbc90a49e8fea677f4b7af764918",
+      "sha256": "89d108360a3bf2924d3bea837239edaccc22fd6ff5befd3787c4348a9fe4f09d",
       "size": null,
       "updated": null
     }
@@ -39,5 +39,5 @@
       }
     }
   },
-  "last-updated": "2026-05-24T00:37:37Z"
+  "last-updated": "2026-11-22T04:46:47Z"
 }
